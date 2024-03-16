@@ -1,8 +1,6 @@
 # Plush Phone
 
-Bekezdés.
-
-Másik bekezdés.
+Link: https://zsolt-nagy.github.io/telefon-oldal/
 
 ## Felhasználói történetek
 

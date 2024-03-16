@@ -1,0 +1,194 @@
+<mxfile host="app.diagrams.net" modified="2024-03-16T12:04:52.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b75Se6AP0Es_PrrIjvqK" version="24.0.7" type="device">
+  <diagram name="Page-1" id="9_HYrlBGRLyS409jD4zk">
+    <mxGraphModel dx="2261" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="59" width="830" height="1491" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-6" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-7" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-24" value="Plush Phone" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry y="110" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-25" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#181819;align=center;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-24">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="130" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-26" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-24">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="199" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-39" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-24">
+          <mxGeometry x="249.00000000000003" y="10" width="46.111111111111114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-40" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-24">
+          <mxGeometry x="299.9955555555556" y="10" width="46.111111111111114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-42" value="Flagship phone kép" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry y="170" width="830" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-43" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="-50" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-44" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-45" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-50" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-46" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-15" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-47" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Flagship phone neve&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Flagship phone tagline" style="html=1;shadow=0;strokeColor=none;fillColor=none;resizeWidth=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-42">
+          <mxGeometry y="1" width="830.0000000000001" height="60" relative="1" as="geometry">
+            <mxPoint y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="60" y="781" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-52" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="132" y="802" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-54" value="Telefon neve" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="121" y="912" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-55" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="121" y="936" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-56" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="80" y="966" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-57" value="Buy now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="158" y="966" width="75" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="100" y="1012" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-60" value="Jellemzők táblázat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="128" y="1036.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="315" y="781" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-63" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="387" y="802" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-64" value="Telefon neve" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="376" y="912" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-65" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="376" y="936" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-66" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="335" y="966" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-67" value="Buy now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="413" y="966" width="75" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="355" y="1012" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-69" value="Jellemzők táblázat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="383" y="1036.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="570" y="781" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-71" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="642" y="802" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-72" value="Telefon neve" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="631" y="912" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-73" value="Tagline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="631" y="936" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-74" value="$999" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="590" y="966" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-75" value="Buy now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="668" y="966" width="75" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="610" y="1012" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-77" value="Jellemzők táblázat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="638" y="1036.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="44.5" y="541" width="120" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-79" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="74.5" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="200.5" y="541" width="120" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-81" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="230.5" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="353.5" y="541" width="120" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-83" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="383.5" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="507.5" y="541" width="120" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-85" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="537.5" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="665.5" y="541" width="120" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-87" value="Jellemző neve&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jellemző leírása&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="695.5" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="59" y="1151" width="711" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-89" value="Vásárlásra való felszólítás, kép, szöveg, buy now button" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="302.5" y="1221" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-90" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-5">
+          <mxGeometry x="260" y="1411" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-91" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-90">
+          <mxGeometry width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-92" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-90">
+          <mxGeometry x="75" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-93" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-90">
+          <mxGeometry x="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyA-lVpJ5bGdqqENx8iH-94" value="Link" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="NyA-lVpJ5bGdqqENx8iH-90">
+          <mxGeometry x="225" width="75" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

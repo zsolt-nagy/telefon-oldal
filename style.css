@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 1.6rem;
+}
+
+/* Header */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-menu {
+    display: flex;
+    list-style: none;
+}
+
+.page-menu-item {
+    margin: 0.5rem 1rem;
+}
+
+.page-menu-link {
+    text-decoration: none;
+    color: darkblue;
+}

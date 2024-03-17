@@ -15,9 +15,9 @@ Mint rosszul informált felhasználó
 Szeretném a telefonvásárlási döntésemet megkönnyíteni
 Hogy kerüljem a választás okozta stresszt
 
-Mint prémium felhasználó  (Ki?)
-Szeretnék prémium telefonok jellemzőihez hozzáférni (Mit?) 
-Hogy eldöntsem, hogy melyik telefonnal vágjak fel a társasági körömben. (Miért?)
+Mint prémium felhasználó
+Szeretnék prémium telefonok jellemzőihez hozzáférni
+Hogy eldöntsem, hogy melyik telefonnal vágjak fel a társasági körömben.
 
 Mint tech-geek 
 Szeretnék információkat szerezni a megvásárolható telefonok jellemzőiről

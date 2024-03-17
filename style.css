@@ -1,29 +1,150 @@
 html {
-    font-size: 10px;
+    font-size: 16px;
 }
 
 body {
-    font-family: Roboto, Arial, sans-serif;
-    font-size: 1.6rem;
+    min-width: 300px;
 }
 
-/* Header */
+/* header */
 .page-header {
+    font-size: 1.25rem;
+}
+
+
+/* features */
+.features {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 2rem;
+}
+
+.feature-box {
+    width: 80vw;
+    padding: 20px;
+    color: #050228;
+    background-color: #cfcfcf;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4)
+}
+
+.feature-image {
+    width: 100%;
+}
+
+/* Phone models */
+.phone-models {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.phone-model-box {
+    width: 80vw;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
-.page-menu {
+.phone-model-image {
+    width: 90%;
+}
+
+.phone-model-data {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.model-feature-container {
+    text-align: center;
+}
+
+.phone-model-feature-img {
+    width: 50%;
+}
+
+.phone-model-price-container {
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+/* CTA */
+.cta-banner {
+    height: 600px;
+    background-color: black;
+    color: cyan;
+    text-shadow: 2px 2px rgba(255, 255, 255, 0.2);
+    background: url(./Images/flagship_phone_banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-tagline-container {
+    text-align: center;
+    margin-top: 2.5rem;
+    font-size: 2rem;
+}
+
+.page-footer {
+    min-height: 120px;
+    background-color: #0D070C;
+    color: whitesmoke;
+    padding: 2rem;
+}
+
+.footer-menu {
     list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.page-menu-item {
-    margin: 0.5rem 1rem;
-}
-
-.page-menu-link {
+.footer-link {
+    color: lightgrey;
     text-decoration: none;
-    color: darkblue;
+    font-size: 1.5rem;
+    margin: 1rem;
 }
+
+.footer-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+
+/* Media Query */
+@media screen and (min-width: 576px) {
+    .feature-box {
+        width: 200px;
+    }
+
+    .phone-model-box {
+        width: 40vw;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .phone-model-box {
+        width: 30vw;
+    }
+
+    .footer-menu {
+        flex-direction: row;
+    }
+}
+
